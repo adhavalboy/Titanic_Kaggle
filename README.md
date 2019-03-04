@@ -31,7 +31,7 @@ RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean 
 
 # 1-2 dataset
 
-Titanic dataset is an open dataset where you can reach from many different repositories and GitHub accounts. However, downloading from Kaggle will be definitely the best choice as the other sources may have slightly different versions and may not offer separate train and test files. So, please visit this link to download the datasets (Train.csv and Test.csv) to get started.
+Titanic dataset is an open dataset where you can reach from many different repositories and GitHub accounts. However, downloading from Kaggle will be definitely the best choice as the other sources may have slightly different versions and may not offer separate train and test files. So, please visit this [link](https://www.kaggle.com/c/titanic/data) to download the datasets (Train.csv and Test.csv) to get started.
 
 -----------------------------------------
 # 2- installation
